@@ -1,7 +1,6 @@
 ## About Your Instructor
-###Paige Crum
-- UT Austin grad -- Biology background
-- GDI Austin “alum”
-- Dev Bootcamp grad
-- Apprentice @ Signal (formerly BrightTag) this fall
-- Co-Leader of GDI Chicago
+###Quintessence Anx
+- Graduated from SUNY University at Buffalo
+- Majored in Physics / Math
+- Worked in IT for over 10 years
+- Chapter Leader for GDI Buffalo for approximately 3 years
