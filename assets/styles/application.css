@@ -9,7 +9,7 @@
 
 a {
     text-decoration: none;
-    color: #F05B62;
+    color: #a05258;
 }
 hgroup a {
     color: #fff;
@@ -44,7 +44,7 @@ h6 {font-size: 1rem; font-weight: 300;}
 }
 
 .sidebar {
-    background: #F05B62;
+    background: #2a4758;
     color: #fff;
 }
 
@@ -82,7 +82,7 @@ h6 {font-size: 1rem; font-weight: 300;}
 .nav-item a:hover,
 .nav-item a:focus {
     background: #fff;
-    color: #F05B62;
+    color: #2a4758;
     text-decoration: none;
 }
 
@@ -155,11 +155,11 @@ h6 {font-size: 1rem; font-weight: 300;}
 }
 /*launch party*/
 .launch h1 {
-    color: #F05B62;
+    color: #2a4758;
     font-weight: bold;
 }
 .package {
-    background: #F05B62;
+    background: #2a4758;
     margin: 2px;
     width: 135px;
     display: inline-block;
@@ -207,7 +207,7 @@ h6 {font-size: 1rem; font-weight: 300;}
 .launch .benefits .heading td {
     font-weight: bold;
     font-size: .8em;
-    background: #F05B62;
+    background: #2a4758;
     color: #fff;
     border: none;
 }
